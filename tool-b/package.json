@@ -1,5 +1,5 @@
 {
-  "name": "my-supabase-app",
+  "name": "tool-b",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,15 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@supabase/auth-ui-react": "^0.4.7",
-    "@supabase/auth-ui-shared": "^0.1.8",
-    "@supabase/ssr": "^0.7.0",
-    "@supabase/supabase-js": "^2.81.1",
-    "jspdf": "^3.0.4",
-    "next": "16.0.1",
-    "react": "19.2.0",
-    "react-dom": "19.2.0",
-    "recharts": "^3.5.1"
+    "next": "16.1.6",
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
@@ -25,7 +19,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "16.0.1",
+    "eslint-config-next": "16.1.6",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
